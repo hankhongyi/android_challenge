@@ -6,9 +6,11 @@ Can you help to fix all the problems?
 
 ## Before you start
 This project requires the following:
-1. Android Studio
-2. Android SDK 22 or above
-3. Android SDK build tools 22.0.1 or above
+1. Android Studio.
+
+2. Android SDK 22 or above.
+
+3. Android SDK build tools 22.0.1 or above.
 
 ## Screenshots
 The screenshot below shows how the app looks like when it is done.
@@ -18,7 +20,7 @@ The screenshot below shows how the app looks like when it is done.
 
 ## About the project
 All the data is from a local JSON file stored in "raw/news_list.json".
-The file contains a list of news items as well as URLs to the pictures associated with the story.
+The file contains a list of news items as well as URLs to the pictures associated with each story.
 
 ## Fix crashes in News List page
 Can you help to fix all bugs so that it can display news list properly?
